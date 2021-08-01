@@ -8,7 +8,7 @@ Clone of the Hulu webpage built using HTML, CSS, and some JavaScript.
 
 ![](./screenshots/live-section.PNG)
 
-![](./screenshots/modal.PNG)
+![](./screenshots/modal-login.PNG)
 
 ### Prerequisites
 
