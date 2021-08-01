@@ -1,6 +1,15 @@
 # Hulu Clone
 
-> Clone of the Hulu webpage built using HTML, CSS, and some JavaScript.
+Clone of the Hulu webpage built using HTML, CSS, and some JavaScript.
+
+### Screenshots
+
+![](./screenshots/landing.PNG)
+
+![](./screenshots/live-section.PNG)
+
+![](./screenshots/modal.PNG)
+
 ### Prerequisites
 
 [Git](https://git-scm.com/downloads) must be installed and configured on your machine.
